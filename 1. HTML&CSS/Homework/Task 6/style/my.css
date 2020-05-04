@@ -1,0 +1,49 @@
+a:link {
+	color: grey;
+}
+a:visited {
+	color: orange;
+}
+a:hover {
+	color: red;
+}
+a:active {
+	background: blue;
+}
+h1:first-letter {
+	font-size: 24px;
+	color: red;
+}
+h2:first-letter {
+	font-size: 24px;
+	color: red;
+}
+h3:first-letter {
+	font-size: 24px;
+	color: red;
+}
+h4:first-letter {
+	font-size: 24px;
+	color: red;
+}
+h5:first-letter {
+	font-size: 24px;
+	color: red;
+}
+h6:first-letter {
+	font-size: 24px;
+	color: red;
+}
+p.p_curl:first-line {
+	font-style: italic;
+}
+p.p_small:before {
+	content: "Беды с ";
+}
+p.p_small:after {
+	content: " башкой";
+}
+::selection {
+	color: lightgrey;
+	background: black;
+}
