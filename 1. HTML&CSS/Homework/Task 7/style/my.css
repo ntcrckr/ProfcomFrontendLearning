@@ -1,0 +1,17 @@
+img[title="Беды с башкой"] {
+	width: 500px;
+	margin-left: 100px;
+}
+img[title="Я панк"] {
+	transform-origin: center center center;
+	transform: rotate(90deg);
+}
+img[title="Хакермэн"] {
+	width: 400px;
+}
+a[href="http://www.internetlastpage.com/"] {
+	color: red;
+}
+a[href="github.com"] {
+	background: grey;
+}
