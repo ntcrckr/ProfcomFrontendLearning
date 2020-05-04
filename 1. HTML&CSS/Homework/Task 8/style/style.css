@@ -1,0 +1,37 @@
+body {
+	color: rgb(200, 200, 200);
+	background: rgba(52, 73, 124, 0.9);
+}
+#logo {
+	font-family: "Merriweather", serif;
+	font-size: 3em;
+	color: rgb(52, 73, 124);
+	background: rgb(200, 200, 200);
+	margin-bottom: 15px;
+	text-align: center;
+	border-radius: 11px 11px 11px 11px;
+
+}
+p {
+	font-family: 'Montserrat', sans-serif;
+	padding: 5px 20px;
+	max-width: 760px;
+	margin: 0 auto;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Open Sans', sans-serif;
+	color: rgb(255, 255, 255);
+	border-bottom-style: solid;
+	border-color: rgb(200, 200, 200);
+	border-width: thin;
+	border-radius: 10px 10px 10px 10px;
+	padding: 0px 10px 0px 10px;
+	max-width: 800px;
+	margin: 15px auto;
+}
+.note {
+	color: rgb(255, 255, 255);
+	border-color: rgb(200, 200, 200);
+	border-style: solid;
+	border-width: 2px;
+}
